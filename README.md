@@ -1,6 +1,6 @@
 # Portfolio
 
-## Proyectos importantes dentro de mi carrera
+Hi! I'm a Computer Science student at Tecnológico de Monterrey, Campus Guadalajara. One of my biggest passions is using technology to solve real-life problems. Throughout my major, I have developed different technical and soft skills by working in different projects. The most important projects y I participated in are in this portfolio.
 
 ### Oracle Productivity Enhancer
 ####  Java, React, Docker, Kubernetes, Autonomous DB, Telegram Bot API 
@@ -15,6 +15,8 @@ Developing a Telegram bot capable of managing tasks, retrieving productivity rep
 
 Link: https://github.com/juanvalos/OCI-Project
 
+
+
 ### Mobile App Prototype 
 ####   Flutter, Supabase, Express, Docker, Firebase
 
@@ -27,6 +29,8 @@ Link: https://github.com/juanvalos/OCI-Project
 - The backend is located in containers using Docker.
 
 Link: https://github.com/juanvalos/TC2007B.502_MobileApp
+
+
 
 ### AI-Powered School Feedback System
 #### React, PostgreSQL, Express, Tailwind CSS April
