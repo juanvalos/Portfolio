@@ -19,7 +19,7 @@ Link: https://github.com/juanvalos/OCI-Project
 ####   Flutter, Supabase, Express, Docker, Firebase
 
 - Developed a mobile app prototype for *BAMX Guadalajara* to optimize food donation logistics using a multi-user platform.
-- 
+  
 - Developed a real-time interactive map, allowing donors to locate 20+ collection centers, optimizing food distribution efficiency.
 
 - Integrated Mailgun API for automated email notifications.
